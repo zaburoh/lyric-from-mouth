@@ -1,0 +1,18 @@
+{
+  "name": "majimira-procon-2023",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "devDependencies": {
+    "vite": "^4.4.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "p5": "^1.6.0",
+    "textalive-app-api": "^0.3.2"
+  }
+}
